@@ -1,0 +1,42 @@
+span {
+    color: red;
+}
+label {
+    display: block;
+    font-size: 20px;
+}
+form input[type="submit"] {
+    background-color: #4895A1;
+    color: white;
+    width: 94%;
+}
+label.name {
+    padding-top: 10vh;
+
+    display: inline-block;
+    width: 100%;
+
+}
+input {
+    padding: 5px 0;
+}
+.name input {
+margin: 0;
+width: 46%;
+}
+.email input {
+    width: 94%;
+}
+select{
+    width: 94%;
+    padding: 5px 0;
+}
+form {
+    max-width: 400px;
+    margin: 0 3%;
+    margin: 0 auto;
+}
+textarea {
+    resize: none;
+    width: 94%;
+}
